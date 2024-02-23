@@ -380,6 +380,7 @@ function setModel(){
 var carFull=document.getElementById('carFull')
 
 function findCar(){
+    maintain.innerHTML=''
     maintain.style.display='none'
 
     carFull.style.display='flex'
@@ -408,8 +409,9 @@ function findCar(){
 
 
 function clearall(){
-    maintain.style.display='flex'
-    carFull.style.display='none'
+    carFull.innerHTML='';
+    maintain.style.display='flex';
+    carFull.style.display='none';
     randerall()
 }
 
