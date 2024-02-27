@@ -1,6 +1,6 @@
 var carlist = {
-    suzuki : {
-        mehran : {
+    Suzuki : {
+        Mehran : {
             image:'https://www.suzukipremier.com/wp-content/uploads/2020/10/Suzuki_Mehran_2012.jpg',
             model:'2020',
             seatcapacity:'5 person',
@@ -11,7 +11,7 @@ var carlist = {
             price: '1,700,000 PKR',
             color: ['red','white','silver']   
         },
-        alto :{
+        Alto :{
             image:'https://suzukifortmotors.com/wp-content/uploads/2020/12/Alto-Pearl-Black.jpg',
             model:'2022',
             seatcapacity:'5 person',
@@ -24,7 +24,7 @@ var carlist = {
   
         
         },
-        cultus :{
+        Cultus :{
             image:'https://imgcdn.zigwheels.pk/large/gallery/color/13/124/suzuki-cultus-color-704737.jpg',
             model:'2021',
             seatcapacity:'5 person',
@@ -37,7 +37,7 @@ var carlist = {
 
         
         },
-        swift :{
+        Swift :{
             image:'https://media.umbraco.io/suzuki-gb/axph1a1m/8636_suzuki_swift_sz-t_lf_r5_mg.png',
             model:'2023',
             seatcapacity:'5 person',
@@ -50,7 +50,7 @@ var carlist = {
 
 
         },
-        vegonR : {
+        VegonR : {
             image:'https://imgd.aeplcdn.com/1920x1080/n/cw/ec/112947/wagon-r-2022-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80&q=80',
             model:'2023',
             seatcapacity:'5 person',
@@ -65,8 +65,8 @@ var carlist = {
         }
         
     },
-    honda :{
-        city : {
+    Honda :{
+        City : {
             image:'https://propakistani.pk/wp-content/uploads/2021/05/Honda-City-2017-Present_8c605f21-5d66-4bd4-a82d-c9f62a0a8a82-e1620197316487.jpg',
             model:'2023',
             seatcapacity:'5 person',
@@ -88,7 +88,7 @@ var carlist = {
             price: '6,200,000 PKR',  
             color: ['red','white','black']   
         },
-        accord :{
+        Accord :{
             image:'https://edgecast-img.yahoo.net/mysterio/api/D9BC91C6C5FB2E79A38806A3E57B7A23C867841A44C5314E3ED04F0822E7A7F9/autoblog/resizefill_w660_h372;quality_80;format_webp;cc_31536000;/https://s.aolcdn.com/commerce/autodata/images/USC90HOC011A021001.jpg',
             model:'2023',
             seatcapacity:'5 person',
@@ -99,7 +99,7 @@ var carlist = {
             price: '22,346,000 PKR',  
             color: ['red','white','black']   
         },
-        civic :{
+        Civic :{
             image:'https://honda.com.pk/images/2022/03/3.jpg',
             model:'2023',
             seatcapacity:'5 person',
@@ -135,8 +135,8 @@ var carlist = {
 
 
     },
-    toyota : {
-        corolla :{
+    Toyota : {
+        Corolla :{
             image:'https://imgcdn.zigwheels.pk/large/gallery/exterior/14/118/toyota-corolla-front-angle-low-view.jpg',
             model:'2023',
             seatcapacity:'5 person',
@@ -147,7 +147,7 @@ var carlist = {
             price: '5,960,000 PKR',  
             color: ['red','white','black']   
         },
-        yaris :{
+        Yaris :{
             image:'https://toyota-central.com/Assets/images/Vehicle/Yaris/Color/attitude-black.png',
             model:'2023',
             seatcapacity:'5 person',
@@ -158,7 +158,7 @@ var carlist = {
             price: '4,320,000 PKR',  
             color: ['red','white','black']   
         },
-        camry :{
+        Camry :{
             image:'https://www.royaltour.in/wp-content/uploads/2022/06/royaltour_camray.webp',
             model:'2023',
             seatcapacity:'5 person',
@@ -169,7 +169,7 @@ var carlist = {
             price: '23,200,000 PKR',  
             color: ['red','white','black']   
         },
-        premio :{
+        Premio :{
             image:'https://catalogphoto.goo-net.com/carphoto/10101057_201004s.jpg',
             model:'2023',
             seatcapacity:'5 person',
@@ -180,7 +180,7 @@ var carlist = {
             price: '13,200,000 PKR',  
             color: ['red','white','black']   
         },
-        landcruiser :{
+        Landcruiser :{
             image:'https://global.toyota/pages/news/images/2021/08/02/1330/002.jpg',
             model:'2023',
             seatcapacity:'8 person',
@@ -191,7 +191,7 @@ var carlist = {
             price: '23,200,000 PKR',  
             color: ['red','white','black']   
         },
-        crollacross :{
+        Crollacross :{
             image:'https://cache4.pakwheels.com/system/car_generation_pictures/7493/original/20200709104304_ac2.jpg?1685107928',
             model:'2023',
             seatcapacity:'5 person',
@@ -202,7 +202,7 @@ var carlist = {
             price: '9,399,000 PKR',  
             color: ['red','white','black']   
         },
-        landcruiser300 :{
+        Landcruiser300 :{
             image:'https://global.toyota/pages/news/images/2021/08/02/1330/001.jpg',
             model:'2023',
             seatcapacity:'8 person',
@@ -213,7 +213,7 @@ var carlist = {
             price: '33,200,000 PKR',  
             color: ['red','white','black']   
         },
-        fortuner :{
+        Fortuner :{
             image:'https://cache4.pakwheels.com/system/car_generation_pictures/7335/original/Fortuner_-_PNG.png?1677568997',
             model:'2023',
             seatcapacity:'8 person',
@@ -224,7 +224,7 @@ var carlist = {
             price: '14,499,000 PKR',  
             color: ['red','white','black'],   
         },
-        revo :{
+        Revo :{
             image:'https://toyota-indus.com/wp-content/uploads/2022/10/Revo_Rocco_Grey-Graphite.png',
             model:'2023',
             seatcapacity:'5 person',
@@ -236,7 +236,7 @@ var carlist = {
             price: '11,959,000 PKR',  
             color: ['red','white','black'],   
         },
-        hilux :{
+        Hilux :{
             image:'https://imgd.aeplcdn.com/664x374/n/cw/ec/109265/hilux-exterior-left-front-three-quarter.jpeg?isig=0&q=80',
             model:'2023',
             seatcapacity:'5 person',
@@ -247,7 +247,7 @@ var carlist = {
             price: '3,200,000 PKR',  
             color: ['red','white','black'],   
         },
-        hiace :{
+        Hiace :{
             image:'https://cache2.pakwheels.com/system/car_generation_pictures/5443/original/hiace-cover.jpg?1615979645',
             model:'2023',
             seatcapacity:'5 person',
@@ -259,8 +259,8 @@ var carlist = {
             color: ['red','white','black']   
         }
     },
-    hyundai :{
-        tucson :{
+    Hyundai :{
+        Tucson :{
             image:'https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/Tucson/Gallery%20Section/pc/Tucson-gallery-4.jpg',
             model:'2023',
             seatcapacity:'5 person',
@@ -271,7 +271,7 @@ var carlist = {
             price: '6,450,000 PKR',  
             color: ['red','white','black']   
         },
-        santafe : {
+        Santafe : {
             image:'https://www.motortrend.com/uploads/sites/10/2017/11/2016-hyundai-santafe-gls-suv-angular-front.png',
             model:'2023',
             seatcapacity:'5 person',
@@ -282,7 +282,7 @@ var carlist = {
             price: '5,450,000 PKR',  
             color: ['red','white','black']   
         },
-        kona :{
+        Kona :{
             image:'https://edgecast-img.yahoo.net/mysterio/api/9C35620A03BC87F11049BD180659F4024FED97DFBCB4E205E5E4789B910C5D46/autoblog/resizefill_w660_h372;quality_80;format_webp;cc_31536000;/https://s.aolcdn.com/commerce/autodata/images/USD30HYS061C021001.jpg',
             model:'2023',
             seatcapacity:'5 person',
@@ -293,7 +293,7 @@ var carlist = {
             price: '7,870,000 PKR',  
             color: ['red','white','black']   
         },
-        palisade :{
+        Palisade :{
             image:'https://s7d1.scene7.com/is/image/hyundai/2023-palisade-calligraphy-sierra-burgundy:16-9?wid=640&hei=360&fmt=webp-alpha',
             model:'2023',
             seatcapacity:'5 person',
@@ -304,7 +304,7 @@ var carlist = {
             price: '8,670,000 PKR',  
             color: ['red','white','black']   
         },
-        venue :{
+        Venue :{
             image:'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201905/Hyundai_Venue_Exterior.jpeg?size=690:388',
             model:'2023',
             seatcapacity:'5 person',
@@ -363,13 +363,11 @@ for ( var key in carlist){
 randerall()
 
 function setModel(){
-//    console.log( brand.value)
    
    model.innerHTML=''
    model.innerHTML =`<option>select model name</option>`
 
    for(key in carlist[brand.value]){
-        //    console.log(key)
            model.innerHTML+=`<option>${key}</option>`
            
    }
@@ -380,7 +378,6 @@ function setModel(){
 var carFull=document.getElementById('carFull')
 
 function findCar(){
-    maintain.innerHTML=''
     maintain.style.display='none'
 
     carFull.style.display='flex'
@@ -409,10 +406,8 @@ function findCar(){
 
 
 function clearall(){
-    carFull.innerHTML='';
-    maintain.style.display='flex';
     carFull.style.display='none';
-    randerall()
+    maintain.style.display='flex';
 }
 
 
