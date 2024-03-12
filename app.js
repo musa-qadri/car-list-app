@@ -332,6 +332,7 @@ for ( var key in carlist){
     brand.innerHTML+=`<option>${key}</option>`
     for(var key1 in carlist[key]){
         var carvalue = carlist[key][key1]
+        // console.log(carvalue.color)
         colorDiv = '';
         for( i=0; i<carvalue.color.length; i++){
             colorDiv +=`<div class="${carvalue.color[i]}"></div>`
@@ -382,6 +383,7 @@ function findCar(){
 
     carFull.style.display='flex'
     var impcar=carlist[brand.value][model.value]
+    console.log(impcar)
     carFull.innerHTML=`
     <div class="card mb-8 no" >
         <div class="row g-0">
@@ -406,6 +408,7 @@ function findCar(){
 
 
 function clearall(){
+
     carFull.style.display='none';
     maintain.style.display='flex';
 }
